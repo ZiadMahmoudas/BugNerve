@@ -1,6 +1,6 @@
 # AI / ML Pipeline – Bug Triage System
 
-![AI / ML Pipeline](AI_ML_Pipeline.png)
+![AI / ML Pipeline](assets/AI_ML_Pipeline.png)
 
 ## 1. Data Source
 
