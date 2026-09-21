@@ -2,7 +2,7 @@
 
 **AI-Powered Bug Triage & Decision Support System**
 
-![BugNerve System Architecture](BugNerve_System_Architecture.png)
+[![BugNerve System Architecture](BugNerve_System_Architecture.png)](https://github.com/ZiadMahmoudas/BugNerve/blob/main/BugNerve.webp)
 
 ## Main Components
 
